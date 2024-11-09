@@ -10,8 +10,6 @@ A project developed to provide detailed descriptions of different animals. This 
 ## Technologies Used
 
 - **Language**: Dart (with Flutter)
-
-- **State Management**: Provider or Riverpod (depending on choice)
 - **Other Libraries**:
   - [http](https://pub.dev/packages/http): for data requests.
   
