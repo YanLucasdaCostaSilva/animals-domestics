@@ -11,7 +11,7 @@ A project developed to provide detailed descriptions of different animals. This 
 
 - **Language**: Dart (with Flutter)
 - **Other Libraries**:
-  - [http](https://pub.dev/packages/http): for data requests.
+  (https://pub.dev/packages/http): for data requests.
   
 ## Project Structure
 
